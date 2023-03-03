@@ -2,4 +2,10 @@ p{
   color: red;
   font-family: italic;
  font-size: 30px;
+} 
+img{
+  height: 400px;
+  width: 200px;
+  border: 2px solid red;
+  border-radius: 10px;
 }
